@@ -16,21 +16,21 @@ limitations under the License.
 import os
 
 # default language ['en'|'ko'|'ja']
-DEFAULT_LANG = 'ja'
+DEFAULT_LANG = 'ko'
 
 # TimeZone
-TZone = "Asia/Tokyo"
+TZone = "Asia/Seoul"
 
 # account
 ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+DOMAIN_ID = 162594
 
 # api
-API_ID = "kr1EHxxxxfJVz"
+API_ID = "kr1vCIkxvQiDd"
 SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "M2ZIB1fMOVUcUDx0Bnh"
+SECRET_KEY_NAME = "private_20200609164255.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
